@@ -6,7 +6,9 @@ Completed the assignment as per the steps provided
 
 Getting Started: For easiest way to getting started, extract this project and open it from Eclipse or any IDE of your choice which supports Java
 
-Then Do a run on test in : testRunner class using Junit Test, Mean to say run as Junit Test
+Then Do a run on test in : first option - testRunner class using Junit Test, Mean to say run as Junit Test.
+                           Second option - Can run through Steps definition file using Maven Test
+
 
 Should be able to see four scenarios running
 
