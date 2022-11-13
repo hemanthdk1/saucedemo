@@ -15,4 +15,6 @@ Should be able to see four scenarios running
 3. performance_glitch_user login and adding 3 random items and validate if 3 items present on the cart
 4. Locked_user will fail to login as user is locked out.
 
+For first 3 scenarios I am passing username and password as parameters and for locked user i have hardcoded on step definition as it will fail to login, you can change the username and password from feature file
+
 Note: used implicit wait for 20 seconds on chromedriver, so to find any locator on web page it waits for 20 seconds 
