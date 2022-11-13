@@ -4,7 +4,7 @@ Normal framework structure that i have used to complete the assignment. I was mo
 
 Completed the assignment as per the steps provided 
 
-Getting Started: For easiest way to getting started, extract this project and open it from Eclipse
+Getting Started: For easiest way to getting started, extract this project and open it from Eclipse or any IDE of your choice which supports Java
 
 Then Do a run on test in : testRunner class using Junit Test, Mean to say run as Junit Test
 
