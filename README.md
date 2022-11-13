@@ -10,9 +10,9 @@ Then Do a run on test in : testRunner class using Junit Test, Mean to say run as
 
 Should be able to see four scenarios running
 
-1.Standard_user login and adding 3 random items and validate if 3 items present on the cart
-2.Problem_user login and adding 3 random items and validate if 3 items present on the cart
-3.performance_glitch_user login and adding 3 random items and validate if 3 items present on the cart
-4.Locked_user will fail to login as user is locked out.
+1. Standard_user login and adding 3 random items and validate if 3 items present on the cart
+2. Problem_user login and adding 3 random items and validate if 3 items present on the cart
+3. performance_glitch_user login and adding 3 random items and validate if 3 items present on the cart
+4. Locked_user will fail to login as user is locked out.
 
 Note: used implicit wait for 20 seconds on chromedriver, so to find any locator on web page it waits for 20 seconds 
